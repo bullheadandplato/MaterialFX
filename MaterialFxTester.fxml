@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.scene.*?>
-<?import de.jensd.fx.glyphs.materialicons.*?>
-<?import de.jensd.fx.glyphs.*?>
-<?import de.jensd.fx.glyphs.fontawesome.*?>
-<?import de.jensd.fx.glyphs.weathericons.*?>
-<?import de.jensd.fx.glyphs.materialdesignicons.*?>
 <?import javafx.scene.text.*?>
 <?import javafx.geometry.*?>
 <?import javafx.scene.effect.*?>
