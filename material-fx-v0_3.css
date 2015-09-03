@@ -267,7 +267,7 @@
 
 .check-box:indeterminate>.box>.mark {
 	-fx-background-color: -swatch-grey;
-	-fx-padding: 0.45em;;
+	-fx-padding: 0.45em;
 }
 
 /*******************************************************************************
