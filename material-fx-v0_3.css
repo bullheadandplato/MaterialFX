@@ -51,7 +51,6 @@
 	-dark: rgb(47.0, 52.0, 57.0);
 	-fx-background-color: -dark;
 	/*default font */
-	-fx-text-weight:;
 	-fx-font-family: 'Roboto Medium';
 	-fx-font-size: 14.0px;
 	-fx-disabled-opacity: 0.6;
